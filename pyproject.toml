@@ -1,0 +1,12 @@
+[project]
+name = "tmp-code-2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "psutil>=7.2.2",
+    "rich>=12.6.0",
+    "rich-cli>=1.8.1",
+    "typer>=0.24.1",
+]
